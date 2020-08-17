@@ -16,5 +16,6 @@
 - 😄 Pronouns: Coorie
 - ⚡ Fun fact: find it out!
 
-![Gmail Badge](https://img.shields.io/badge/-vitorhugo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/3/#inbox)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhugo.dev@gmail.com)](mailto:vitorhugo.dev@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@VitorHugoo1_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VitorHugoo1_)](https://twitter.com/VitorHugoo1_)
+
