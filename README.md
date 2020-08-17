@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-vitorhugo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/3/#inbox)]
+![Gmail Badge](https://img.shields.io/badge/-vitorhugo.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/3/#inbox)
