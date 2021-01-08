@@ -13,7 +13,7 @@
 - 🔭 I’m currently study programming on: my home 🏠
 - 🌱 I’m currently learning 
 - 📫 How to reach me: in my email or in my twitter
-- 😄 Nickname: Coorie
+- 😄 Nickname: Arcanjo
 - ⚡ Fun fact: find it out!
 
 [![Gmail Badge](https://img.shields.io/badge/-vitorhugore.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhugo.dev@gmail.com)](mailto:vitorhugore.dev@gmail.com)
